@@ -2,8 +2,11 @@
 
 Client    
 
+
   npm install 
+  
   ng serve
+  
   the run the port localhost:4200 
   
   
