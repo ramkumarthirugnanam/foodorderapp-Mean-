@@ -19,7 +19,6 @@ Client
     run the port localhost:4000
     
    mongodb version 3.6
-   install mongodb 
    
        start the mongo  
 
